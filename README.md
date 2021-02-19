@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## File Structure
 
 Within the download you'll find the following directories and files:
@@ -57,3 +58,6 @@ vue-material-kit/
 └── vue.config.js
 
 ```
+=======
+npm install
+>>>>>>> b785910ed634930a44e96e943a5079f177eaec4e
