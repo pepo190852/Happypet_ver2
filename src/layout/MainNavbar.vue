@@ -45,13 +45,13 @@
                       <ul class="dropdown-menu dropdown-with-icons">
                         <li>
                           <a href="#/Home">
-                            <i class="material-icons">home</i>
+                            <i class="material-icons">emoji_nature</i>
                             <p>HOME</p>
                           </a>
                         </li>
                         <li>
                           <a href="#/Shop">
-                            <i class="material-icons">shop</i>
+                            <i class="material-icons">storefront</i>
                             <p>SHOP</p>
                           </a>
                         </li>
