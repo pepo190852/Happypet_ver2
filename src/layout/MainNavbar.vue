@@ -7,7 +7,10 @@
     :color-on-scroll="colorOnScroll"
   >
     <div class="md-toolbar-row md-collapse-lateral">
-      <div class="md-toolbar-section-start">
+      <div class="md-toolbar-section-start" v-if="!showDownload">
+        <a href="#/Home"><h3 class="md-title">HappyPet</h3></a>
+      </div>
+      <div class="md-toolbar-section-start" v-if="showDownload">
         <h3 class="md-title">Welcome to HappyPet</h3>
       </div>
       <div class="md-toolbar-section-end">
@@ -53,6 +56,12 @@
                           <a href="#/Shop">
                             <i class="material-icons">storefront</i>
                             <p>SHOP</p>
+                          </a>
+                        </li>
+                        <li>
+                          <a href="#/Leader">
+                            <i class="material-icons">accessibility_new</i>
+                            <p>LEADERBOARD</p>
                           </a>
                         </li>
                         <li>
