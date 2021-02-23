@@ -59,12 +59,6 @@
                           </a>
                         </li>
                         <li>
-                          <a href="#/Leader">
-                            <i class="material-icons">accessibility_new</i>
-                            <p>LEADERBOARD</p>
-                          </a>
-                        </li>
-                        <li>
                           <a href="#/">
                             <i class="material-icons">logout</i>
                             <p>Logout</p>
